@@ -1,2 +1,3 @@
 # arabic-learning-app
-arabic-learning
+
+arabic-learning for chinese speakers
